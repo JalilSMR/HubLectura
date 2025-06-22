@@ -3,7 +3,7 @@
 **Desarrollado por:** Jalil Samas Mendoza Reyes
 
 ## Resumen
-Esta mini proyecto es una simulación de un Hub de Lectura. Desarrollado en Visual basic 6.
+Este mini proyecto es una simulación de un Hub de Lectura. Desarrollado en Visual basic 6.
 
 ## Requerimientos técnicos
 
