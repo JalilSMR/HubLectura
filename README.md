@@ -9,6 +9,6 @@ Este mini proyecto es una simulación de un Hub de Lectura. Desarrollado en Visu
 
 - Tecnologías utilizadas: Visual basic 6.
 
-## Capturas de pagina en funcionamiento
+## Captura de pagina en funcionamiento
 
 <img src="Imagenes/funcionando.jpeg" width="600" alt="Prueba">
